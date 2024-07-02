@@ -1,0 +1,13 @@
+{
+    "firstName": "Carl",
+    "altura": 175,
+    "edad": 33,
+    "direccion": {
+        "calle": "General Elorza",
+        "ciudad": "Oviedo",
+        "numero": 22
+    },
+    "hobbies":{
+        "hobbie":["fotografia","escalar","programar"]
+    }
+}

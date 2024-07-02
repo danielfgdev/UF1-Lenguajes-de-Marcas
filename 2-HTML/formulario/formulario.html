@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+
+<body>
+    <form action="">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" placeholder="Escribe aqui tu nombre">
+        <br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" placeholder="Escribe aqui tu email">
+        <br><br>
+
+        <select name="departamento" id="departamento">
+            <option value="rrhh">RRHH</option>
+            <option value="mkt">MKT</option>
+            <option value="ventas">VENTAS</option>
+            <option value="logistica">LOGISTICA</option>
+        </select>
+
+        <h3>Tipo de Jornada</h3>
+
+        <input type="radio" name="jornada" id="completa" />
+        <label for="completa">Completa</label>
+        <br>
+        <input type="radio" name="jornada" id="parcial" />
+        <label for="parcial">Parcial</label>
+        <br>
+        <input type="radio" name="jornada" id="remoto/hibrido" />
+        <label for="remoto/hibrido">Remoto/hibrido</label>
+        <br><br>
+
+        <input type="file" id="myFile" name="filename">
+
+        <br><br>
+        <textarea name="" id="" placeholder="Escribe aqui tus comentarios"></textarea>
+        <br>
+        <input type="checkbox" name="cookies" id="cookies" />
+        <label for="cookies">¿Acepta la poltica de cookies?</label>
+        <br><br>
+        <input type="submit">
+
+
+    </form>
+</body>
+
+</html>

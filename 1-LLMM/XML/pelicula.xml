@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pelicula>
+	<titulo>Titanic</titulo>
+	
+	<actores>
+		<primerActor>Kate Winslet</primerActor>
+		<segundoActor>Leonardo Dicaprio</segundoActor>
+		<terceroActor>Billy Zane</terceroActor>
+		<cuartoActor>Kathy Bates</cuartoActor>
+		<quintoActor>Victor Garbes</quintoActor>
+
+	</actores>
+	
+	<añoDeSalida>1997</añoDeSalida>
+	
+	<Tematica>
+			<Resumen>El barco choca con un iceber y se hunde</Resumen>
+	</Tematica>
+</pelicula>

@@ -1,0 +1,18 @@
+{
+    "carrito":[
+        {
+        "nombre": "lechuga",
+        "precio": 2,
+        "marcas":["carrefour", "alcampo" ]
+        },{
+        "nombre": "arroz",
+        "precio": 1,
+        "marcas":["sos", "auchan"]
+        },{
+        "nombre": "queso",
+        "precio": 12,
+        "marcas": ["ventero" , "nose"]
+        }
+        
+    ]
+}

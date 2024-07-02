@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viajeros>
+	<persona>
+		<nombre>Daniel</nombre>
+		<edad>35</edad>
+		<direccion>
+			<calle>Pico tres conceyos</calle>
+			<numero>11</numero>
+			<ciudad>El Entrego</ciudad>
+		</direccion>
+		<listaDeHobbies>
+			<aficiones>futbol<aficiones>
+			<aficiones>nba<aficiones>
+			<aficiones>peliculas<aficiones>
+			<aficiones>conducir<aficiones>
+			<aficiones>escribir<aficiones>
+		</listaDeHobbies>
+			
+	</persona>
+	<persona>
+		<nombre>Pepe</nombre>
+		<edad>32</edad>
+		<direccion>
+			<calle>Santa Barbara</calle>
+			<numero>1</numero>
+			<ciudad>Sotrondio</ciudad>
+		</direccion>
+		<listaDeHobbies>
+			<aficiones>cocina<aficiones>
+			<aficiones>musica<aficiones>
+			<aficiones>peliculas<aficiones>
+			<aficiones>conducir<aficiones>
+			<aficiones>escribir<aficiones>
+		</listaDeHobbies>
+			
+	</persona>
+	
+</viajeros>
